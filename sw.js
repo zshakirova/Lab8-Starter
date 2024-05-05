@@ -1,7 +1,7 @@
 // sw.js - This file needs to be in the root of the directory to work,
 //         so do not move it next to the other scripts
 
-const CACHE_NAME = 'lab-7-starter';
+const CACHE_NAME = 'lab-8-starter';
 
 // Installs the service worker. Feed it some initial URLs to cache
 self.addEventListener('install', function (event) {

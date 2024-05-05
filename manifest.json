@@ -1,0 +1,17 @@
+{
+    "name": "",
+    "short_name": "",
+    "description": "",
+    "start_url": "",
+    "display": "",
+    "background_color": "",
+    "theme_color": "",
+    "icons": [
+      {
+        "src": "/assets/images/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
